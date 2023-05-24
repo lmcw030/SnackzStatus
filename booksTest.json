@@ -1,0 +1,67 @@
+[
+    {
+        "Title": "Tastes Like War",
+        "Subtitle": "A Memoir",
+        "Author": "Grace M. Cho",
+        "Year": "2021",
+        "status": [
+            "pdf ready",
+            "link added",
+            "gender added"
+        ],
+        "book_link": "https://www.amazon.de/Tastes-Like-War-Grace-Cho/dp/1952177944/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1C8WSOW9B9VR6&keywords=Tastes+Like+War+A+Memoir+Grace+M.+Cho&qid=1684939054&sprefix=tastes+like+war+a+memoir+grace+m.+cho%2Caps%2C946&sr=8-1",
+        "author_gender": "female"
+    },
+    {
+        "Title": "Friends, Lovers, and the Big Terrible Thing",
+        "Subtitle": "A Memoir",
+        "Author": "Matthew Perry",
+        "Year": "2022",
+        "status": [
+            "pdf ready",
+            "link added",
+            "gender added"
+        ],
+        "book_link": "https://www.amazon.de/Summary-Friends-Lovers-Terrible-Thing-ebook/dp/B0BVRVMKTC/ref=sr_1_4?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1VESAJZ4XJMD6&keywords=Friends%2C+Lovers%2C+and+the+Big+Terrible+Thing+A+Memoir+Matthew+Perry&qid=1684939077&s=books&sprefix=friends+lovers+and+the+big+terrible+thing+a+memoir+matthew+p%2Cenglish-books%2C500&sr=1-4",
+        "author_gender": "male"
+    },
+    {
+        "Title": "The Power of Now",
+        "Subtitle": "A Guide to Spiritual Enlightenment",
+        "Author": "Eckhart Tolle",
+        "Year": "2010",
+        "status": [
+            "pdf ready",
+            "link added",
+            "gender added"
+        ],
+        "book_link": "https://www.amazon.de/Power-Now-Guide-Spiritual-Enlightenment/dp/0340733500/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1C910QMM4IO9S&keywords=The+Power+of+Now+A+Guide+to+Spiritual+Enlightenment+Eckhart+Tolle&qid=1684939100&s=books&sprefix=the+power+of+now+a+guide+to+spiritual+enlightenment+eckhart+tolle%2Cenglish-books%2C1157&sr=1-1",
+        "author_gender": "male"
+    },
+    {
+        "Title": "The Nazi Conspiracy",
+        "Subtitle": "The Secret Plot to Kill Roosevelt, Stalin, and Churchill",
+        "Author": "Brad Meltzer",
+        "Year": "2023",
+        "status": [
+            "pdf ready",
+            "link added",
+            "gender added"
+        ],
+        "book_link": "https://www.amazon.de/Nazi-Conspiracy-Secret-Roosevelt-Churchill/dp/1250777267/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1YCWESWCH4R74&keywords=The+Nazi+Conspiracy+The+Secret+Plot+to+Kill+Roosevelt%2C+Stalin%2C+and+Churchill+Brad+Meltzer&qid=1684939130&s=books&sprefix=the+nazi+conspiracy+the+secret+plot+to+kill+roosevelt+stalin+and+churchill+brad+meltzer%2Cenglish-books%2C898&sr=1-1",
+        "author_gender": "male"
+    },
+    {
+        "Title": "The Woman They Could Not Silence",
+        "Subtitle": "The Shocking Story of a Woman Who Dared to Fight Back",
+        "Author": "Kate Moore",
+        "Year": "2021",
+        "status": [
+            "pdf ready",
+            "link added",
+            "gender added"
+        ],
+        "book_link": "https://www.amazon.de/Woman-They-Could-Not-Silence-ebook/dp/B08LR174TM/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=34XS9VKPF5H2I&keywords=The+Woman+They+Could+Not+Silence+The+Shocking+Story+of+a+Woman+Who+Dared+to+Fight+Back+Kate+Moore&qid=1684939153&s=books&sprefix=the+woman+they+could+not+silence+the+shocking+story+of+a+woman+who+dared+to+fight+back+kate+moore%2Cenglish-books%2C1075&sr=1-1",
+        "author_gender": "female"
+    }
+]
